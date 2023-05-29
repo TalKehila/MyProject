@@ -1,0 +1,8 @@
+C:\Users\USER\Desktop\C# OOC\ProductProject\ProductProject\bin\Debug\ProductProject.exe.config
+C:\Users\USER\Desktop\C# OOC\ProductProject\ProductProject\bin\Debug\ProductProject.exe
+C:\Users\USER\Desktop\C# OOC\ProductProject\ProductProject\bin\Debug\ProductProject.pdb
+C:\Users\USER\Desktop\C# OOC\ProductProject\ProductProject\obj\Debug\ProductProject.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\C# OOC\ProductProject\ProductProject\obj\Debug\ProductProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\C# OOC\ProductProject\ProductProject\obj\Debug\ProductProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C# OOC\ProductProject\ProductProject\obj\Debug\ProductProject.exe
+C:\Users\USER\Desktop\C# OOC\ProductProject\ProductProject\obj\Debug\ProductProject.pdb
