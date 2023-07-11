@@ -1,0 +1,1 @@
+{"IsBorrowed":false,"Price":908.0,"Name":"Queen","Pages":"8908","ReleaseDate":"890","ISBN":"908","Type":"Drama","ItemType":"Logic.Journal"}

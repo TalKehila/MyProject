@@ -1,0 +1,155 @@
+C:\Users\USER\Desktop\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\LabraryProject.exe
+C:\Users\USER\Desktop\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\LabraryProject.deps.json
+C:\Users\USER\Desktop\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\LabraryProject.runtimeconfig.json
+C:\Users\USER\Desktop\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\LabraryProject.dll
+C:\Users\USER\Desktop\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\LabraryProject.pdb
+C:\Users\USER\Desktop\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.Form1.resources
+C:\Users\USER\Desktop\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.AssemblyInfo.cs
+C:\Users\USER\Desktop\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.dll
+C:\Users\USER\Desktop\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\refint\LabraryProject.dll
+C:\Users\USER\Desktop\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.pdb
+C:\Users\USER\Desktop\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.genruntimeconfig.cache
+C:\Users\USER\Desktop\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\ref\LabraryProject.dll
+C:\Users\USER\Desktop\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.EmpolyeeLogInPage.resources
+C:\Users\msvs\Desktop\Lab\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.csproj.AssemblyReference.cache
+C:\Users\msvs\Desktop\Lab\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.EmpolyeeLogInPage.resources
+C:\Users\msvs\Desktop\Lab\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.Form1.resources
+C:\Users\msvs\Desktop\Lab\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.csproj.GenerateResource.cache
+C:\Users\msvs\Desktop\Lab\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msvs\Desktop\Lab\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.AssemblyInfoInputs.cache
+C:\Users\msvs\Desktop\Lab\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.AssemblyInfo.cs
+C:\Users\msvs\Desktop\Lab\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.csproj.CoreCompileInputs.cache
+C:\Users\msvs\Desktop\Lab\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.dll
+C:\Users\msvs\Desktop\Lab\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\ref\LabraryProject.dll
+C:\Users\msvs\Desktop\Lab\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.pdb
+C:\Users\msvs\Desktop\Lab\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\LabraryProject.exe
+C:\Users\msvs\Desktop\Lab\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\LabraryProject.deps.json
+C:\Users\msvs\Desktop\Lab\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\LabraryProject.runtimeconfig.json
+C:\Users\msvs\Desktop\Lab\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\LabraryProject.dll
+C:\Users\msvs\Desktop\Lab\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\LabraryProject.pdb
+C:\Users\msvs\Desktop\Lab\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.genruntimeconfig.cache
+C:\Users\msvs\Desktop\Lab\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\Logic.dll
+C:\Users\msvs\Desktop\Lab\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\Logic.pdb
+C:\Users\msvs\Desktop\Lab\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.csproj.CopyComplete
+C:\Users\msvs\Desktop\Lab\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.Adding.resources
+C:\Users\USER\Desktop\Lab\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\LabraryProject.exe
+C:\Users\USER\Desktop\Lab\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\LabraryProject.deps.json
+C:\Users\USER\Desktop\Lab\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\LabraryProject.runtimeconfig.json
+C:\Users\USER\Desktop\Lab\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\LabraryProject.dll
+C:\Users\USER\Desktop\Lab\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\LabraryProject.pdb
+C:\Users\USER\Desktop\Lab\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\Logic.dll
+C:\Users\USER\Desktop\Lab\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\Logic.pdb
+C:\Users\USER\Desktop\Lab\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Lab\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.Adding.resources
+C:\Users\USER\Desktop\Lab\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.EmpolyeeLogInPage.resources
+C:\Users\USER\Desktop\Lab\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.Form1.resources
+C:\Users\USER\Desktop\Lab\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Lab\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Lab\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Lab\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.AssemblyInfo.cs
+C:\Users\USER\Desktop\Lab\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Lab\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.csproj.CopyComplete
+C:\Users\USER\Desktop\Lab\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.dll
+C:\Users\USER\Desktop\Lab\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\refint\LabraryProject.dll
+C:\Users\USER\Desktop\Lab\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.pdb
+C:\Users\USER\Desktop\Lab\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.genruntimeconfig.cache
+C:\Users\USER\Desktop\Lab\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\ref\LabraryProject.dll
+C:\Users\msvs\Desktop\Lab\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\refint\LabraryProject.dll
+C:\Users\msvs\Desktop\Lab\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.Edit.resources
+C:\Users\USER\Desktop\Lab\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.Edit.resources
+C:\Users\USER\Desktop\Lab7\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\LabraryProject.exe
+C:\Users\USER\Desktop\Lab7\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\LabraryProject.deps.json
+C:\Users\USER\Desktop\Lab7\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\LabraryProject.runtimeconfig.json
+C:\Users\USER\Desktop\Lab7\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\LabraryProject.dll
+C:\Users\USER\Desktop\Lab7\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\LabraryProject.pdb
+C:\Users\USER\Desktop\Lab7\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\Logic.dll
+C:\Users\USER\Desktop\Lab7\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\Logic.pdb
+C:\Users\USER\Desktop\Lab7\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Lab7\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.Adding.resources
+C:\Users\USER\Desktop\Lab7\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.Edit.resources
+C:\Users\USER\Desktop\Lab7\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.EmpolyeeLogInPage.resources
+C:\Users\USER\Desktop\Lab7\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.Form1.resources
+C:\Users\USER\Desktop\Lab7\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Lab7\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Lab7\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Lab7\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.AssemblyInfo.cs
+C:\Users\USER\Desktop\Lab7\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Lab7\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.csproj.CopyComplete
+C:\Users\USER\Desktop\Lab7\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.dll
+C:\Users\USER\Desktop\Lab7\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\refint\LabraryProject.dll
+C:\Users\USER\Desktop\Lab7\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.pdb
+C:\Users\USER\Desktop\Lab7\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.genruntimeconfig.cache
+C:\Users\USER\Desktop\Lab7\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\ref\LabraryProject.dll
+C:\Users\USER\Desktop\Lab3\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\LabraryProject.exe
+C:\Users\USER\Desktop\Lab3\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\LabraryProject.deps.json
+C:\Users\USER\Desktop\Lab3\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\LabraryProject.runtimeconfig.json
+C:\Users\USER\Desktop\Lab3\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\LabraryProject.dll
+C:\Users\USER\Desktop\Lab3\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\LabraryProject.pdb
+C:\Users\USER\Desktop\Lab3\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\Logic.dll
+C:\Users\USER\Desktop\Lab3\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\Logic.pdb
+C:\Users\USER\Desktop\Lab3\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Lab3\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.Adding.resources
+C:\Users\USER\Desktop\Lab3\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.EmpolyeeLogInPage.resources
+C:\Users\USER\Desktop\Lab3\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.Form1.resources
+C:\Users\USER\Desktop\Lab3\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Lab3\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Lab3\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Lab3\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.AssemblyInfo.cs
+C:\Users\USER\Desktop\Lab3\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Lab3\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.csproj.CopyComplete
+C:\Users\USER\Desktop\Lab3\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.dll
+C:\Users\USER\Desktop\Lab3\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\refint\LabraryProject.dll
+C:\Users\USER\Desktop\Lab3\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.pdb
+C:\Users\USER\Desktop\Lab3\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.genruntimeconfig.cache
+C:\Users\USER\Desktop\Lab3\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\ref\LabraryProject.dll
+C:\Users\USER\Desktop\Lab34\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Lab34\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.Adding.resources
+C:\Users\USER\Desktop\Lab34\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.EmpolyeeLogInPage.resources
+C:\Users\USER\Desktop\Lab34\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.Form1.resources
+C:\Users\USER\Desktop\Lab34\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Lab34\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Lab34\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Lab34\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.AssemblyInfo.cs
+C:\Users\USER\Desktop\Lab34\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Lab34\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.dll
+C:\Users\USER\Desktop\Lab34\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\refint\LabraryProject.dll
+C:\Users\USER\Desktop\Lab34\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.pdb
+C:\Users\USER\Desktop\Lab34\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\LabraryProject.exe
+C:\Users\USER\Desktop\Lab34\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\LabraryProject.deps.json
+C:\Users\USER\Desktop\Lab34\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\LabraryProject.runtimeconfig.json
+C:\Users\USER\Desktop\Lab34\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\LabraryProject.dll
+C:\Users\USER\Desktop\Lab34\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\LabraryProject.pdb
+C:\Users\USER\Desktop\Lab34\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\Logic.dll
+C:\Users\USER\Desktop\Lab34\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\Logic.pdb
+C:\Users\USER\Desktop\Lab34\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.csproj.CopyComplete
+C:\Users\USER\Desktop\Lab34\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.genruntimeconfig.cache
+C:\Users\USER\Desktop\Lab34\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\ref\LabraryProject.dll
+C:\Users\USER\Desktop\Lab34\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\לימודים\C# Folde\Lab34\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\LabraryProject.exe
+C:\Users\USER\Desktop\לימודים\C# Folde\Lab34\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\LabraryProject.deps.json
+C:\Users\USER\Desktop\לימודים\C# Folde\Lab34\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\LabraryProject.runtimeconfig.json
+C:\Users\USER\Desktop\לימודים\C# Folde\Lab34\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\LabraryProject.dll
+C:\Users\USER\Desktop\לימודים\C# Folde\Lab34\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\LabraryProject.pdb
+C:\Users\USER\Desktop\לימודים\C# Folde\Lab34\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\לימודים\C# Folde\Lab34\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\Logic.dll
+C:\Users\USER\Desktop\לימודים\C# Folde\Lab34\LabraryProject\LabraryProject\bin\Debug\net6.0-windows\Logic.pdb
+C:\Users\USER\Desktop\לימודים\C# Folde\Lab34\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\לימודים\C# Folde\Lab34\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.Adding.resources
+C:\Users\USER\Desktop\לימודים\C# Folde\Lab34\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.EmpolyeeLogInPage.resources
+C:\Users\USER\Desktop\לימודים\C# Folde\Lab34\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.Form1.resources
+C:\Users\USER\Desktop\לימודים\C# Folde\Lab34\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\לימודים\C# Folde\Lab34\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\לימודים\C# Folde\Lab34\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\לימודים\C# Folde\Lab34\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.AssemblyInfo.cs
+C:\Users\USER\Desktop\לימודים\C# Folde\Lab34\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\לימודים\C# Folde\Lab34\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.csproj.CopyComplete
+C:\Users\USER\Desktop\לימודים\C# Folde\Lab34\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.dll
+C:\Users\USER\Desktop\לימודים\C# Folde\Lab34\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\refint\LabraryProject.dll
+C:\Users\USER\Desktop\לימודים\C# Folde\Lab34\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.pdb
+C:\Users\USER\Desktop\לימודים\C# Folde\Lab34\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\LabraryProject.genruntimeconfig.cache
+C:\Users\USER\Desktop\לימודים\C# Folde\Lab34\LabraryProject\LabraryProject\obj\Debug\net6.0-windows\ref\LabraryProject.dll

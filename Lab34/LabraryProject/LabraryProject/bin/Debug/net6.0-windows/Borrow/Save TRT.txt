@@ -1,0 +1,1 @@
+{"Author":"AVI","IsBorrowed":false,"Price":878.0,"Name":"TRT","Pages":"798","ReleaseDate":"1998-12-12","ISBN":"8979","Type":"Comedy","ItemType":"Logic.Book"}

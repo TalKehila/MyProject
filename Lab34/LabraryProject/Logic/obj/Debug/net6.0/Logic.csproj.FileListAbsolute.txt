@@ -1,0 +1,72 @@
+C:\Users\msvs\Desktop\Lab\LabraryProject\Logic\bin\Debug\net6.0\Logic.deps.json
+C:\Users\msvs\Desktop\Lab\LabraryProject\Logic\bin\Debug\net6.0\Logic.dll
+C:\Users\msvs\Desktop\Lab\LabraryProject\Logic\bin\Debug\net6.0\Logic.pdb
+C:\Users\msvs\Desktop\Lab\LabraryProject\Logic\obj\Debug\net6.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msvs\Desktop\Lab\LabraryProject\Logic\obj\Debug\net6.0\Logic.AssemblyInfoInputs.cache
+C:\Users\msvs\Desktop\Lab\LabraryProject\Logic\obj\Debug\net6.0\Logic.AssemblyInfo.cs
+C:\Users\msvs\Desktop\Lab\LabraryProject\Logic\obj\Debug\net6.0\Logic.csproj.CoreCompileInputs.cache
+C:\Users\msvs\Desktop\Lab\LabraryProject\Logic\obj\Debug\net6.0\Logic.dll
+C:\Users\msvs\Desktop\Lab\LabraryProject\Logic\obj\Debug\net6.0\ref\Logic.dll
+C:\Users\msvs\Desktop\Lab\LabraryProject\Logic\obj\Debug\net6.0\Logic.pdb
+C:\Users\msvs\Desktop\Lab\LabraryProject\Logic\obj\Debug\net6.0\Logic.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Lab\LabraryProject\Logic\bin\Debug\net6.0\Logic.deps.json
+C:\Users\USER\Desktop\Lab\LabraryProject\Logic\bin\Debug\net6.0\Logic.dll
+C:\Users\USER\Desktop\Lab\LabraryProject\Logic\bin\Debug\net6.0\Logic.pdb
+C:\Users\USER\Desktop\Lab\LabraryProject\Logic\obj\Debug\net6.0\Logic.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Lab\LabraryProject\Logic\obj\Debug\net6.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Lab\LabraryProject\Logic\obj\Debug\net6.0\Logic.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Lab\LabraryProject\Logic\obj\Debug\net6.0\Logic.AssemblyInfo.cs
+C:\Users\USER\Desktop\Lab\LabraryProject\Logic\obj\Debug\net6.0\Logic.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Lab\LabraryProject\Logic\obj\Debug\net6.0\Logic.dll
+C:\Users\USER\Desktop\Lab\LabraryProject\Logic\obj\Debug\net6.0\refint\Logic.dll
+C:\Users\USER\Desktop\Lab\LabraryProject\Logic\obj\Debug\net6.0\Logic.pdb
+C:\Users\USER\Desktop\Lab\LabraryProject\Logic\obj\Debug\net6.0\ref\Logic.dll
+C:\Users\msvs\Desktop\Lab\LabraryProject\Logic\obj\Debug\net6.0\refint\Logic.dll
+C:\Users\USER\Desktop\Lab7\LabraryProject\Logic\bin\Debug\net6.0\Logic.deps.json
+C:\Users\USER\Desktop\Lab7\LabraryProject\Logic\bin\Debug\net6.0\Logic.dll
+C:\Users\USER\Desktop\Lab7\LabraryProject\Logic\bin\Debug\net6.0\Logic.pdb
+C:\Users\USER\Desktop\Lab7\LabraryProject\Logic\obj\Debug\net6.0\Logic.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Lab7\LabraryProject\Logic\obj\Debug\net6.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Lab7\LabraryProject\Logic\obj\Debug\net6.0\Logic.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Lab7\LabraryProject\Logic\obj\Debug\net6.0\Logic.AssemblyInfo.cs
+C:\Users\USER\Desktop\Lab7\LabraryProject\Logic\obj\Debug\net6.0\Logic.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Lab7\LabraryProject\Logic\obj\Debug\net6.0\Logic.dll
+C:\Users\USER\Desktop\Lab7\LabraryProject\Logic\obj\Debug\net6.0\refint\Logic.dll
+C:\Users\USER\Desktop\Lab7\LabraryProject\Logic\obj\Debug\net6.0\Logic.pdb
+C:\Users\USER\Desktop\Lab7\LabraryProject\Logic\obj\Debug\net6.0\ref\Logic.dll
+C:\Users\USER\Desktop\Lab3\LabraryProject\Logic\bin\Debug\net6.0\Logic.deps.json
+C:\Users\USER\Desktop\Lab3\LabraryProject\Logic\bin\Debug\net6.0\Logic.dll
+C:\Users\USER\Desktop\Lab3\LabraryProject\Logic\bin\Debug\net6.0\Logic.pdb
+C:\Users\USER\Desktop\Lab3\LabraryProject\Logic\obj\Debug\net6.0\Logic.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Lab3\LabraryProject\Logic\obj\Debug\net6.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Lab3\LabraryProject\Logic\obj\Debug\net6.0\Logic.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Lab3\LabraryProject\Logic\obj\Debug\net6.0\Logic.AssemblyInfo.cs
+C:\Users\USER\Desktop\Lab3\LabraryProject\Logic\obj\Debug\net6.0\Logic.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Lab3\LabraryProject\Logic\obj\Debug\net6.0\Logic.dll
+C:\Users\USER\Desktop\Lab3\LabraryProject\Logic\obj\Debug\net6.0\refint\Logic.dll
+C:\Users\USER\Desktop\Lab3\LabraryProject\Logic\obj\Debug\net6.0\Logic.pdb
+C:\Users\USER\Desktop\Lab3\LabraryProject\Logic\obj\Debug\net6.0\ref\Logic.dll
+C:\Users\USER\Desktop\Lab34\LabraryProject\Logic\bin\Debug\net6.0\Logic.deps.json
+C:\Users\USER\Desktop\Lab34\LabraryProject\Logic\bin\Debug\net6.0\Logic.dll
+C:\Users\USER\Desktop\Lab34\LabraryProject\Logic\bin\Debug\net6.0\Logic.pdb
+C:\Users\USER\Desktop\Lab34\LabraryProject\Logic\obj\Debug\net6.0\Logic.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Lab34\LabraryProject\Logic\obj\Debug\net6.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Lab34\LabraryProject\Logic\obj\Debug\net6.0\Logic.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Lab34\LabraryProject\Logic\obj\Debug\net6.0\Logic.AssemblyInfo.cs
+C:\Users\USER\Desktop\Lab34\LabraryProject\Logic\obj\Debug\net6.0\Logic.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Lab34\LabraryProject\Logic\obj\Debug\net6.0\Logic.dll
+C:\Users\USER\Desktop\Lab34\LabraryProject\Logic\obj\Debug\net6.0\refint\Logic.dll
+C:\Users\USER\Desktop\Lab34\LabraryProject\Logic\obj\Debug\net6.0\Logic.pdb
+C:\Users\USER\Desktop\Lab34\LabraryProject\Logic\obj\Debug\net6.0\ref\Logic.dll
+C:\Users\USER\Desktop\לימודים\C# Folde\Lab34\LabraryProject\Logic\bin\Debug\net6.0\Logic.deps.json
+C:\Users\USER\Desktop\לימודים\C# Folde\Lab34\LabraryProject\Logic\bin\Debug\net6.0\Logic.dll
+C:\Users\USER\Desktop\לימודים\C# Folde\Lab34\LabraryProject\Logic\bin\Debug\net6.0\Logic.pdb
+C:\Users\USER\Desktop\לימודים\C# Folde\Lab34\LabraryProject\Logic\obj\Debug\net6.0\Logic.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\לימודים\C# Folde\Lab34\LabraryProject\Logic\obj\Debug\net6.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\לימודים\C# Folde\Lab34\LabraryProject\Logic\obj\Debug\net6.0\Logic.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\לימודים\C# Folde\Lab34\LabraryProject\Logic\obj\Debug\net6.0\Logic.AssemblyInfo.cs
+C:\Users\USER\Desktop\לימודים\C# Folde\Lab34\LabraryProject\Logic\obj\Debug\net6.0\Logic.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\לימודים\C# Folde\Lab34\LabraryProject\Logic\obj\Debug\net6.0\Logic.dll
+C:\Users\USER\Desktop\לימודים\C# Folde\Lab34\LabraryProject\Logic\obj\Debug\net6.0\refint\Logic.dll
+C:\Users\USER\Desktop\לימודים\C# Folde\Lab34\LabraryProject\Logic\obj\Debug\net6.0\Logic.pdb
+C:\Users\USER\Desktop\לימודים\C# Folde\Lab34\LabraryProject\Logic\obj\Debug\net6.0\ref\Logic.dll

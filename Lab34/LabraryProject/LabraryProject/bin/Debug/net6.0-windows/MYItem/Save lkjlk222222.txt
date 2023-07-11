@@ -1,0 +1,1 @@
+{"Author":"lkjlk","IsBorrowed":false,"Price":870.0,"Name":"lkjlk222222","Pages":"lkjlk","ReleaseDate":"lkjlk","ISBN":"lkjljk","Type":"kljj22222","ItemType":"Logic.Book"}
